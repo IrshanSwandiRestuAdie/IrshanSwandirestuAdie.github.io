@@ -122,6 +122,66 @@
   .btn-whatsapp svg {
     margin-right: 0.5rem;
   }
+
+  .Daftar-Layanan {
+    align-content: center;
+  }
+
+  .Daftar-Layanan h2 {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem;
+    color: #000000;
+  }
+
+  .Daftar-Layanan p.indent {
+    text-indent: 40px;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+    
+  }
+
+
+  .Daftar-Layanan img {
+    display: inline-flex;
+    margin: 0.5rem;
+    border-radius: 10px;
+    align-items: center;
+    
+  }
+  .Daftar-Layanan img.hardware {
+    width: 400px;
+    height: 400px;
+    margin-right: 5rem;
+  }
+
+  .Daftar-Layanan img.printer {
+    width: 400px;
+    height: 400px;
+    
+  }
+
+  .produk p.indent {
+    text-indent: 40px;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+  }
+
+  .produk {
+    padding: 2rem 0 0 2rem;
+  }
+
+  .produk h2 {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem;
+    color: #000000;
+  }
+
   main {
     max-width: 960px;
     margin: 2rem auto;
@@ -164,6 +224,9 @@
       font-size: 1rem;
       padding: 0.6rem 1.3rem;
     }
+
+    
+
     iframe {
       height: 300px;
     }
